@@ -1,5 +1,5 @@
 ## ต้องการฟังชั่น `EnterLine();`
-
+--hacktoberfresh
 ```c
 int main(){
     int line;
